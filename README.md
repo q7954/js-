@@ -47,7 +47,7 @@ Base64编码的数据 ——> var _0x152e = "akx0VmY=", "YnJlYWs=", ...
 
 安装 Node.js 环境 ——> 官方版本  [Node.js](https://nodejs.org/zh-cn/download/prebuilt-installer)
 
-## 推荐版本——>v22.12.0 (LTS)
+## 推荐版本——>(LTS版本)
 <details>
 <summary>Node.js 是一个开源的、跨平台的 JavaScript 运行时环境</summary>
 Node.js 是一个开源的、跨平台的 JavaScript 运行时环境，允许开发者使用 JavaScript 在服务器端运行代码，从而构建各种网络应用，如网站、API、实时聊天应用等。它基于 Chrome 的 V8 引擎，具有高性能和高效的事件驱动架构，非常适合构建可扩展的网络应用。
